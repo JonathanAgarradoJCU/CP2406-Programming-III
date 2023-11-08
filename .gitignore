@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# ----- ADDED BY JonathanAgarradoJCU -----
+# Debug files
+*pdb
+*ilk
+
+# Kernal Module Compile Results
+*json
