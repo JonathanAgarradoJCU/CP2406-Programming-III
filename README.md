@@ -27,10 +27,11 @@
 
 <p>
  In response to previous student feedback and other data, the following enhancements to this subject have been made:
-
- <li>
-  Starting from 2023 TR3, this subject’s programming language was changed from Python to C++
- </li>
+ <ul>
+  <li>
+   Starting from 2023 TR3, this subject’s programming language was changed from Python to C++
+  </li>
+ </ul>
 </p>
 
 <h2>1.6 Subject resources and special requirements</h2>
