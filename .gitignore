@@ -35,6 +35,7 @@
 # Debug files
 *pdb
 *ilk
+*zip
 
 # Kernal Module Compile Results
 *json
