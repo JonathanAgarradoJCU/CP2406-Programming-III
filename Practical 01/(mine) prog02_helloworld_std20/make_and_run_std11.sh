@@ -1,3 +1,5 @@
+# CP2406 - Jonathan Roi Ferrer Agarrado (External) - 14275360
+
 rm my_prog.exe
 # g++ -std=c++11 -o my_prog.exe helloworld_std20.cpp
 g++ -std=c++11 -o my_prog.exe helloworld_std20.cpp
